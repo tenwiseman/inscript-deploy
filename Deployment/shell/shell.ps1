@@ -17,7 +17,6 @@ $defaultsFile = "$PSScriptRoot\local\defaults.json"
 Import-Module -Name NetAdapter
 Import-Module -Name "$PSScriptRoot\modules\ISD" -Force
 
-
 do {
     # get machine settings that match the current identified machine
     $script:machine = Get-WindowsMachineSettings -TemplateFile $templateFile
