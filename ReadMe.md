@@ -69,7 +69,7 @@ Enter Choice :
 ## Credits
 Tenwiseman, 2017.
 ## License
-Free licence to do whatever. Just give me a credit, that's all :)
+Free licence to do whatever. Just give me a credit like the line above, that's all :)
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
