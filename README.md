@@ -1,3 +1,3 @@
-# inscript-menu
-(nothing here can be regarded as stable!)
-Various CLI menu scripts to preconfigure Windows 10 and deploy a templated selection of applications
+# inscript-deploy
+A collection of network share resident powershell scripts to preconfigure (machine name, IP settings) a build of Windows 10 and further deploy from an administrator CLI menu a preselected range of applications. The installation commands and machine details are defined in a simple JSON template.
+
