@@ -74,7 +74,8 @@ Free licence to do whatever. Just give me a credit like the line above, that's a
 1. Fork it!
 2. Create your feature branch: 'git checkout -b my-new-feature'
 3. Commit your changes: 'git commit -am'
+
 Add some feature. Submit a pull request :)
 ## History
-Apr 2017 - My first trip on GitHub, be gentle... ;-)
+Apr 2017 - It's my first trip on GitHub, please be gentle... ;-)
 
