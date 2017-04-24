@@ -8,6 +8,7 @@ A collection of network share resident powershell scripts to preconfigure (machi
 ## Usage
 1. Run up target machine and adjust networking (DHCP?) to see share
 2. Run elevated the file 'install.cmd'. You will see the following
+<pre>
 -------------------------------------------------------------------------------------------------
  ## Inscript-Deployment Script
  ## By Tenwiseman, 2017
@@ -64,6 +65,7 @@ A collection of network share resident powershell scripts to preconfigure (machi
  '---------------------------------------------'
 Enter Choice : 
 ------------------------------------------------------------
+</pre>
 ## Credits
 Tenwiseman, 2017.
 ## License
